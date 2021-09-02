@@ -1,4 +1,5 @@
 GITの練習をしていきます。
-test
-test
-test
+基本的なワークフローのメモを書いていきます。
+
+.git add
+.git commit
